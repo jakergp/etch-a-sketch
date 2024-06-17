@@ -1,0 +1,18 @@
+.grid {
+    margin: auto;
+    margin-top: 20px;
+    width: 800px;
+}
+
+.container {
+    display: flex;
+}
+
+.square {
+    border: 1px solid black;
+    flex-grow: 1;
+}
+
+.btn {
+    margin-left: 90%;
+}
